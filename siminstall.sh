@@ -13,6 +13,7 @@
 # my modified in remote
 # my modified in local +1
 # modified in local +2
+# changed by remote +1
 
 CUR_VER=""
 NEW_VER=""
