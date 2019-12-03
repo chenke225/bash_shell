@@ -10,6 +10,7 @@
 # 3: Network error
 
 # my modify in local
+# my modified in remote
 
 CUR_VER=""
 NEW_VER=""
